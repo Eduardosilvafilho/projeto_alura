@@ -1,6 +1,7 @@
 # Machine learning project By Alura
 
-This is a chalenge that Alura offers to students to put their skills in use in the area of Machine learning.
-It is a series of chalenges and questions that test your capacity to solve ML problems. 
+This is a challenge that Alura offers students to use their skills in the area of Machine learning.
+It is a series of challenges and questions that test your capacity to solve ML problems. 
 
-![image](https://github.com/Eduardosilvafilho/projeto_alura/assets/63105019/4502af97-e242-4395-9deb-109618a91f93)
+![image](https://github.com/Eduardosilvafilho/projeto_alura/assets/63105019/38b26fa3-5f2b-4816-b860-b1a5bc133d3c)
+
